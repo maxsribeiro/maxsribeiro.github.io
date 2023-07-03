@@ -1,0 +1,240 @@
+body{
+    margin: 0;
+    
+}
+
+
+
+.header ul{
+    z-index: +3;
+    background-color: black;
+    margin: 0px;
+    padding: 19px 12px;
+    list-style-type: none;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+}
+
+
+
+.saudacoes h1{
+   color: white;
+    box-shadow: 0px 2px 6px black;
+    background-image: url(img/img1.png);
+    padding: 80px 50px;
+    text-align: center;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-family: 'Krona One', sans-serif;
+
+}
+
+
+.header li{
+    text-align: center;
+}
+
+.header li a{
+    color: white;
+    font-family: 'Krona One', sans-serif;
+
+    text-align: center;
+    text-decoration: none;
+    transition: 0.5s;
+    text-transform: uppercase;
+
+}
+
+
+.header li a:hover{
+    color: #960e05;
+    transition: 0.5s;
+}
+
+/*Parte 1 do html*/
+
+
+.parte1{
+    margin-top: 70px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.parte1 h3{
+  
+    margin-left: 250px;
+    font-size: 16px;
+}
+
+.parte1 p{
+    margin-left: 250px;
+    margin-right: 70px;
+    font-size: 16px;
+}
+
+.parte1 img{
+    border-radius: 8px;
+    float: left;
+    width: 200px;
+    
+}
+
+/*Parte 2 do html*/
+
+.parte2{
+    margin-top: 70px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.parte2 .hobbies h3{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px 8px;
+    border-radius: 8px;
+ 
+}
+
+
+
+.parte2 h4{
+    text-align: center;
+    font-size: 16px;
+}
+
+.parte2 img{
+    margin: auto;
+    display: block;
+    width: 200px;
+    border-radius: 8px;
+}
+
+/*Parte 3 do html*/
+
+.parte3{
+    margin-top: 70px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.parte3 .text h3{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px 8px;
+    border-radius: 8px;
+}
+
+
+.parte3 .list{
+    margin-left: 250px;
+}
+
+
+.parte3 .list ul{
+    list-style-type: none;
+}
+
+.parte3 .litext{
+   margin-left: 300px;
+   margin-top: 30px;
+}
+
+.parte3 .linot{
+    float: left;
+    border-radius: 8px;
+}
+
+.parte3 .linot img{
+    border-radius: 8px;
+}
+
+
+.parte3 .list p{
+    font-size: 14px;
+}
+
+.parte3 .list h5{
+
+    font-size: 16px;
+}
+
+
+/*Parte 4 do html*/
+
+.parte4{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 70px;
+    
+}
+
+.parte4 h3{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px 8px;
+}
+
+.parte4 p{
+    text-align: center;
+}
+
+.parte4 img{
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+    width: 100px;
+    transition: 0.5s;
+}
+.parte4 img:hover{
+    width: 150px;
+    transition: 0.5s;
+    box-shadow:  5px 5px 5px black;
+}
+
+.parte4 h4{
+    text-align: center;
+    font-size: 16px;
+}
+
+
+/*Parte 5 do html*/
+
+.parte5{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 70px;
+    
+}
+
+.parte5 h3{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px 8px;
+}
+
+.parte5 p{
+    text-align: center;
+}
+
+.parte5 img{
+    width: 800px;
+    display: block;
+    margin: auto;
+}
+
+/*final*/
+
+.rodape{
+    background-color: black;
+    padding: 19px 12px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
